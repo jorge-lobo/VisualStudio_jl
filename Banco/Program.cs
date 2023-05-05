@@ -97,7 +97,7 @@ internal class Program
         Console.WriteLine("Dados actualizados da conta: ");
         Console.WriteLine(cb);
 
-        cb.NomeTitular = "Teresa";
+        cb.NomeTitular = "Teresa"; //estou me a passar com o Quim barreiros
         Console.WriteLine(cb);
     }
 }

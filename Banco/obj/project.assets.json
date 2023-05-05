@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Projecto\\Banco\\Banco\\Banco.csproj",
+      "projectUniqueName": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\VisualStudio_jl\\Banco\\Banco.csproj",
       "projectName": "Banco",
-      "projectPath": "C:\\Users\\Cesae\\Desktop\\Projecto\\Banco\\Banco\\Banco.csproj",
+      "projectPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\VisualStudio_jl\\Banco\\Banco.csproj",
       "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesae\\Desktop\\Projecto\\Banco\\Banco\\obj\\",
+      "outputPath": "C:\\Users\\Cesae\\Documents\\DataBase\\C#\\VisualStudio_jl\\Banco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
