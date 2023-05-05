@@ -42,7 +42,8 @@ internal class Program
         Console.WriteLine("Dados actualizados da conta: ");
         Console.WriteLine(cb);
 
-        cb.NomeTitular = "Teresa";
+        cb.NomeTitular = "Cláudia"; //já estou farto da Teresa
         Console.WriteLine(cb);
+        Console.WriteLine("Fim"); //The End
     }
 }
